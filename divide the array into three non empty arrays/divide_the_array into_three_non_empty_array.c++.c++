@@ -2,6 +2,19 @@
 
 using namespace std;
 
+
+/*
+
+In this problem it is given that solution always exits so,
+For negative product we can just print a single negative element so its product is always negative.
+For positive element we can  print all positive element so its product is always positive and if
+ there is no positive element then we can print two negative element ,product of two negative element is
+  positive.
+For zero procduct print rest of element.
+
+
+*/
+
 int main() {
     int n;
     cin>>n;
