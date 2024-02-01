@@ -12,7 +12,6 @@ For positive element we can  print all positive element so its product is always
   positive.
 For zero procduct print rest of element.
 
-
 */
 
 int main() {
