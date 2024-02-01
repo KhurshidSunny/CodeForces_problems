@@ -36,6 +36,4 @@ int main() {
         if(count == n) {
             cout<<"0"<<endl;
         }
-
-
 }
